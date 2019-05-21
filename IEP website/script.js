@@ -1,9 +1,9 @@
 function hover(el){
-	el.classList.add("hovereffect");
+el.classList.add("hovereffect");
 }
 
 function regular(el){
-	el.classList.remove("hovereffect");
+el.classList.remove("hovereffect");
 }
 
 function myFunction() {

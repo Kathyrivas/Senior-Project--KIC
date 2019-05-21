@@ -17,10 +17,10 @@ width: 100vw;
 
 p.a {
   font-family: "CustomFont", cursive;
-   font-size: 110px;
-   text-align: center;
-   padding-bottom: 2px;
-   margin: 0;
+  font-size: 110px;
+  text-align: center;
+  padding-bottom: 2px;
+  margin: 0;
 }
 
 p.b {
@@ -29,7 +29,8 @@ p.b {
    text-align: center;
    padding-top: 30px;
    padding-left: 38px;
-   margin: 0;
+	color: black;
+	margin: 0;
 }
 
 .pink {
